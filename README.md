@@ -2,8 +2,8 @@
 <body>
 
 <div align="center">
-  <h1 align="center">Hi <picture><img alt="wave" width=35 src="./imgs/waving.gif"></picture>, I'm Ítalo</h1>
-  <h4 align="center">A passionate developer from Brazil</h4>
+  <h1 align="center">Hi <picture><img alt="wave" width=35 src="./imgs/waving.gif"></picture>, I'm Silvinha</h1>
+  <h4 align="center">A passionate developer from Portugal</h4>
 </div>
 
 <picture>
@@ -14,7 +14,7 @@
 
 ## 🧮 **About me**
 
-- 🎓 I'm a Computer Science student at [UESC](http://uesc.br/).
+- 🎓 I'm a Computer Science student at IPCA.
 - 🌱 Always learning
 - 🏢 I'm open for internship and job opportunities
 - ⚡ Fun fact: I love to play games
@@ -58,14 +58,9 @@
 
 <p align="center">
 <br/>
-<a href="https://www.linkedin.com/in/italoseara/" target="blank">
+<a href="https://www.linkedin.com/" target="blank">
   <img align="center"
     src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="azzar" height="30"/>
-</a>
-<a href="mailto:italo.sseara@gmail.com" target="blank">
-  <img align="center"
-    src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
     alt="azzar" height="30"/>
 </a>
 </p>
